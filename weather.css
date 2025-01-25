@@ -179,4 +179,8 @@ h2 {
   .weather-icon {
     width: 100px;
   }
+
+  .search {
+    margin-bottom: 10px; 
+  }
 }
